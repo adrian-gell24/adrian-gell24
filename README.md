@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Adrian Gellert
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: adrian.gellert@colby.edu
 
 <!---
 adrian-gell24/adrian-gell24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
